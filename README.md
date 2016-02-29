@@ -2,6 +2,8 @@
 
 A balatant Instagram clone to practise BDD and Rails.
 
+***
+
 ## Notes
 
 Ruby -v 2.3.0
